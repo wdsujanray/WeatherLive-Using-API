@@ -14,7 +14,7 @@
 
 **Real-time weather • Wind-driven clouds • 7-Day forecast • Geolocation**
 
-[🚀 Live Demo](#-live-demo) • [✨ Features](#-features) • [🛠️ Installation](#️-installation) • [📸 Screenshots](#-screenshots) • [🤝 Contributing](#-contributing)
+[🚀 Live Demo](#-live-demo) • [✨ Features](#-features) • [🛠️ Installation](#️-installation) • [🤝 Contributing](#-contributing)
 
 </div>
 
