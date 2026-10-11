@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌤️ WeatherLive
+# 🌤️ WeatherLive-Using-API
 
 ### A Modern Glassmorphism Weather App with Realistic Wind-Driven Animated Clouds
 
@@ -22,7 +22,7 @@
 
 ## 🌟 Overview
 
-**WeatherLive** is a sleek, modern weather application built with **pure HTML, CSS, and JavaScript** — no frameworks, no build tools, no dependencies. It fetches **real-time weather data** from the **OpenWeather API** and presents it with a stunning **glassmorphism UI** and a **unique realistic cloud animation system** where clouds drift across the background in the **same direction as the actual wind** at your location.
+**WeatherLive-Using-API** is a sleek, modern weather application built with **pure HTML, CSS, and JavaScript** — no frameworks, no build tools, no dependencies. It fetches **real-time weather data** from the **OpenWeather API** and presents it with a stunning **glassmorphism UI** and a **unique realistic cloud animation system** where clouds drift across the background in the **same direction as the actual wind** at your location.
 
 > 🎯 **Unique Feature:** The animated clouds on the background don't just move randomly — they move **exactly in the direction of the real wind** (fetched from the weather API). If the wind blows east, clouds drift left → right. If the wind blows west, clouds drift right → left. Pure weather realism! 🌬️
 
@@ -60,28 +60,9 @@
 
 > 🔗 **Try it live:** [https://wdsujanray.github.io/WeatherLive-Using-API/](https://wdsujanray.github.io/WeatherLive-Using-API/)
 
-*(Replace `yourusername` with your actual GitHub username after enabling GitHub Pages.)*
 
----
 
-## 📸 Screenshots
 
-<div align="center">
-
-### 🖥️ Desktop View
-<img src="screenshots/desktop.png" alt="Desktop Screenshot" width="700"/>
-
-### 📱 Mobile View
-<img src="screenshots/mobile.png" alt="Mobile Screenshot" width="280"/>
-
-### 🌬️ Wind-Driven Cloud Animation
-<img src="screenshots/animation.gif" alt="Cloud Animation" width="700"/>
-
-</div>
-
-*(Create a `screenshots/` folder in your repo and add your own images.)*
-
----
 
 ## 🛠️ Installation
 
@@ -94,4 +75,4 @@
 **1. Clone the repository**
 ```bash
 git clone https://github.com/wdsujanray/WeatherLive-Using-API.git
-cd WeatherLive
+cd WeatherLive-Using-API
