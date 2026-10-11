@@ -58,7 +58,7 @@
 
 ## 🚀 Live Demo
 
-> 🔗 **Try it live:** [https://yourusername.github.io/WeatherLive/](https://yourusername.github.io/WeatherLive/)
+> 🔗 **Try it live:** [https://wdsujanray.github.io/WeatherLive-Using-API/](https://wdsujanray.github.io/WeatherLive-Using-API/)
 
 *(Replace `yourusername` with your actual GitHub username after enabling GitHub Pages.)*
 
@@ -93,5 +93,5 @@
 
 **1. Clone the repository**
 ```bash
-git clone https://github.com/yourusername/WeatherLive.git
+git clone https://github.com/wdsujanray/WeatherLive-Using-API.git
 cd WeatherLive
